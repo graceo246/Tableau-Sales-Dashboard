@@ -9,9 +9,9 @@ This project focuses on cleaning and analyzing the Superstore dataset by merging
 ## Technologies Used
 
 
-Python: Python is used for data cleaning and preparation using Pandas.
+**Python**: Python is used for data cleaning and preparation using Pandas.
 
-Tableau: For visualizing and analyzing the processed data.
+**Tableau**: For visualizing and analyzing the processed data.
 
 
 
