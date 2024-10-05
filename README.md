@@ -23,14 +23,14 @@ This project focuses on cleaning and analyzing the Superstore dataset by merging
 
 2.CustomerInformation.csv: Additional customer information dataset.
 
-3.Superstore Cleaning.ipynb: Google Colab containing the Python code for data cleaning.
+3.Superstore_Cleaning.ipynb: Google Colab containing the Python code for data cleaning.
 
 4.Sales Dashboard.twb: Tableau dashboard file.
 
 
 ## Data Cleaning Process
 
-The detailed data cleaning process, including the following steps, is documented in the Jupyter Notebook (Superstore_Cleaning.ipynb):
+The detailed data cleaning process, including the following steps, is documented in the Google Colab (Superstore_Cleaning.ipynb):
 
 1. Importing the raw Superstore and customer data.
 
