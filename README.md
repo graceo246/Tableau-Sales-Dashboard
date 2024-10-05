@@ -45,7 +45,7 @@ The detailed data cleaning process, including the following steps, is documented
 6. Saving the processed data to a CSV file for use in Tableau.
 
 
-### To view the full data cleaning process, open and run the 'Superstore Cleaning.ipynb' file in Jupyter Notebook.
+### To view the full data cleaning process, open and run the 'Superstore_Cleaning.ipynb' file in Jupyter Notebook.
 
 ## Tableau Dashboard
 
