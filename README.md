@@ -21,7 +21,7 @@ This project focuses on cleaning and analyzing the Superstore dataset by merging
 
 1.SuperstoreUnprocessed.csv: The unprocessed Superstore dataset.
 
-2.customer_data age.csv: Additional customer information dataset.
+2.CustomerInformation.csv: Additional customer information dataset.
 
 3.Superstore Cleaning.ipynb: Google Colab containing the Python code for data cleaning.
 
