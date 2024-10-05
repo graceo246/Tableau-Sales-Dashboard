@@ -30,7 +30,7 @@ This project focuses on cleaning and analyzing the Superstore dataset by merging
 
 ## Data Cleaning Process
 
-The detailed data cleaning process, including the following steps, is documented in the Jupyter Notebook (data_cleaning.ipynb):
+The detailed data cleaning process, including the following steps, is documented in the Jupyter Notebook (Superstore_Cleaning.ipynb):
 
 1. Importing the raw Superstore and customer data.
 
